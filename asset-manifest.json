@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChanakyaBNP/TextUtilis/static/css/main.abd64e84.css",
+    "main.js": "/ChanakyaBNP/TextUtilis/static/js/main.76fec7ad.js",
+    "static/js/787.f83ea5b6.chunk.js": "/ChanakyaBNP/TextUtilis/static/js/787.f83ea5b6.chunk.js",
+    "index.html": "/ChanakyaBNP/TextUtilis/index.html",
+    "main.abd64e84.css.map": "/ChanakyaBNP/TextUtilis/static/css/main.abd64e84.css.map",
+    "main.76fec7ad.js.map": "/ChanakyaBNP/TextUtilis/static/js/main.76fec7ad.js.map",
+    "787.f83ea5b6.chunk.js.map": "/ChanakyaBNP/TextUtilis/static/js/787.f83ea5b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.76fec7ad.js"
+  ]
+}
